@@ -109,7 +109,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Autor
 
-Criado por **[Seu Nome](https://github.com/seuusuario)**. Entre em contato em [seuemail@seuemail.com](mailto:seuemail@seuemail.com) para dúvidas ou sugestões.
+Criado por **[Cleiton Carvalho](https://github.com/cleitonpcarvalho)**. Entre em contato em [cleiton.carvalho@automasoluct.com](mailto:cleiton.carvalho@automasoluct.com) para dúvidas ou sugestões.
 
 ---
 
